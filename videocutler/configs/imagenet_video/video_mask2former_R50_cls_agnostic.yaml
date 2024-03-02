@@ -83,4 +83,6 @@ INPUT:
     ENABLED: True
     TYPE: "absolute_range"
     SIZE: (600, 720)
+TEST:
+  EVAL_PERIOD: 5000
 OUTPUT_DIR: "OUTPUT/"
