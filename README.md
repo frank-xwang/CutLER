@@ -21,7 +21,7 @@ Unsupervised video instance segmentation (**VideoCutLER**) is also supported. **
 > [**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**](https://people.eecs.berkeley.edu/~xdwang/projects/VideoCutLER/videocutler.pdf)            
 > [Xudong Wang](https://people.eecs.berkeley.edu/~xdwang/), [Ishan Misra](https://imisra.github.io/), Ziyun Zeng, [Rohit Girdhar](https://rohitgirdhar.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)             
 > UC Berkeley; FAIR, Meta AI            
-> Preprint            
+> CVPR 2024            
 
 [[`code`](videocutler/README.md)] [[`PDF`](https://people.eecs.berkeley.edu/~xdwang/projects/VideoCutLER/videocutler.pdf)] [[`arxiv`](https://arxiv.org/abs/2308.14710)] [[`bibtex`](#citation)]             
 
