@@ -396,10 +396,11 @@ If you find our work inspiring or use our codebase in your research, please cons
 ```
 
 ```
-@article{wang2023videocutler,
-  title={VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation},
+@inproceedings{wang2024videocutler,
+  title={Videocutler: Surprisingly simple unsupervised video instance segmentation},
   author={Wang, Xudong and Misra, Ishan and Zeng, Ziyun and Girdhar, Rohit and Darrell, Trevor},
-  journal={arXiv preprint arXiv:2308.14710},
-  year={2023}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22755--22764},
+  year={2024}
 }
 ```
